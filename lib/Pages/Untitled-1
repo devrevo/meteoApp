@@ -1,0 +1,25 @@
+{
+    id: 6417490, 
+    name: Lesparkkhoz, 
+    coord: {lat: 55.5431, 
+    lon: 37.6014}, 
+    main: 
+    {
+        temp: 299.77, 
+        feels_like: 299.77, 
+        temp_min: 299.23, 
+        temp_max: 300.26, 
+        pressure: 1016, 
+        humidity: 39
+    }, 
+    dt: 1625656424, 
+    wind: 
+    {
+        speed: 3, 
+        deg: 120
+    }, 
+    sys: 
+        {
+            country: RU
+        }, 
+        rain: null, snow: null, clouds: {all: 0}, weather: [{id: 800, main: Clear, description: clear sky, icon: 01d}
